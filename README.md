@@ -14,13 +14,13 @@ The results of efforts are as follows:
 
 - On initial load, the resulting page appears as follows:
 
-![Page on Load](/Images/page_on_load.png)
+![Page on Load](/images/page_on_load.png)
  
 ### Filtering by User Specified Criteria
 
 - In order to filter the dataset based on user-specified criteria, the user can enter values into one or more than one of the following fields:
 
-![Filter Criteria](/Images/filter_criteria.png)
+![Filter Criteria](/images/filter_criteria.png)
 
 - In order to apply the user-specified criteria, the user simply enters a value into the text box, and then applies the criteria by pressing Enter, Tab, or by using their mouse to click within a different field.  The user can enter multiple filter criteria - however, in order to remove the filters which have been applied, the user must reload the HTML page.
 
@@ -28,7 +28,7 @@ The results of efforts are as follows:
 
 - The results of a user-specified search appear as follows:
  
-![Post Filter](/Images/post_filter.png)
+![Post Filter](/images/post_filter.png)
 
 ## Summary of Analysis
  
